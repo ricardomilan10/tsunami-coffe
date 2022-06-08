@@ -11,7 +11,6 @@
 .top-jumbo header{
     max-width: 1000px;
     margin: 0 auto;
-
 }
 header nav{
     background: orangered;
@@ -21,9 +20,15 @@ header nav{
 }
 header nav ul{
     list-style: none;
-    margin: 0;
+    margin-left: 30px;
 }
 header nav li{
     display: inline-block;
+}
+.top-jumbo img{
+    width: 20rem;
+    display: block;
+    margin:auto;
+    margin-top: 9rem;
 }
 
